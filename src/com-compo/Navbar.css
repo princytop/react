@@ -1,0 +1,24 @@
+.my{
+ background-color: #b5b5e0;
+
+
+}
+
+.form{
+    padding: 0 10px 0 0;
+}
+.icon-phone{
+    padding: 0 15px 0 0 ;
+
+}
+.hello img{
+    width: 100%;
+}
+.img-1 img{
+ width: 90px;
+ /* margin: 0 100px 0 0 ; */
+}
+
+.card-1 {
+  justify-content: center;
+}
